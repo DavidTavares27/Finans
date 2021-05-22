@@ -1,0 +1,25 @@
+	#home {
+		background: #ffc107;
+		color: white;
+	}
+
+	.caixa {
+		padding: 60px 0;
+		border-bottom: 1px solid #e5e5e5;
+	}
+
+	footer p a{
+		margin: 5px 15px;
+	}
+
+
+/*Rodapé*/
+#container-rodape{
+	background: #B28600;
+	padding: 10px;
+}
+#rodape {
+	width: 500px;
+	margin: 0 auto;
+	color: #fff;
+}
